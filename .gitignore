@@ -1,0 +1,4 @@
+profile.json
+reports/
+__pycache__/
+*.pyc

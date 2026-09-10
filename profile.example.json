@@ -1,0 +1,68 @@
+{
+  "_comment": "Template only -- copy this to profile.json and fill in your own answers. profile.json is gitignored because these fields can include sensitive personal data (race/ethnicity, LGBTQ+ identity, disability status, income). Leave any field null if you'd rather not use it as search/match criteria.",
+  "academic": {
+    "education_level": "e.g. High school senior / Undergrad / Grad student",
+    "school": null,
+    "gpa": null,
+    "gpa_scale": 4.0,
+    "gpa_note": null,
+    "major": null,
+    "standardized_test_scores": null,
+    "academic_honors": null
+  },
+  "financial": {
+    "aid_type_sought": "need-based | merit-based | both",
+    "household_income_bracket": "e.g. under $30,000 / $30-60k / $60-100k / $100k+",
+    "dependency_status": "dependent | independent",
+    "existing_aid": null
+  },
+  "demographics": {
+    "age": null,
+    "gender_identity": null,
+    "race_ethnicity": null,
+    "lgbtq_identity": null,
+    "disability_status": null,
+    "first_generation_status": {
+      "strict_definition": null,
+      "note": null
+    },
+    "citizenship_residency": null,
+    "religious_affiliation": null
+  },
+  "geography": {
+    "current_residence": null,
+    "legal_residency": null,
+    "school_location": null,
+    "regional_ties": []
+  },
+  "field_and_career": {
+    "major_or_field": null,
+    "industry_interest": null,
+    "certifications_in_progress": null
+  },
+  "family_and_community": {
+    "parent_occupations": {},
+    "military_affiliation": null,
+    "union_membership": null,
+    "employer_scholarship_leads": [],
+    "organizational_affiliations": null
+  },
+  "activities_and_leadership": {
+    "extracurriculars": [],
+    "leadership_roles": [],
+    "volunteer_hours": null,
+    "work_experience": null
+  },
+  "special_circumstances": {
+    "single_parent_background": null,
+    "first_in_family_note": null,
+    "disability_accommodation": null
+  },
+  "application_preferences": {
+    "time_available_per_week": null,
+    "essay_willingness": null,
+    "minimum_award_amount": null,
+    "deadline_scope": null,
+    "refresh_cadence": null
+  }
+}

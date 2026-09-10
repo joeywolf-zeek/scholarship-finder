@@ -1,0 +1,374 @@
+[
+  {
+    "id": "iowa-section-asce-scholarship",
+    "name": "Iowa Section ASCE Scholarship",
+    "sponsor": "American Society of Civil Engineers -- Iowa Section",
+    "amount": "Share of $6,000 pool (per-student amount not published)",
+    "deadline": null,
+    "deadline_note": "Reported as \"February 2026\" for the 2025-26 cycle (already past). Next cycle likely ~Feb 2027; exact date not confirmed -- check iowaasce.org/scholarships.",
+    "renewable": null,
+    "eligibility_criteria": {
+      "text": "Awarded to students at Dordt University, Iowa State University, and The University of Iowa. Civil engineering coursework is the natural fit for this section's scholarships.",
+      "gpa_min": null,
+      "state_residency": null,
+      "school_states": ["Iowa"],
+      "majors": ["civil engineering"],
+      "age_min": null,
+      "age_max": null,
+      "identity_requirements": null,
+      "citizenship": null,
+      "other_notes": "Likely requires being a student member of the ASCE student chapter at your school -- not confirmed."
+    },
+    "application_effort": {
+      "essay_required": null,
+      "letters_of_rec_required": null,
+      "estimated_time": null,
+      "notes": "Application format not confirmed -- check the Iowa Section ASCE student chapter."
+    },
+    "url": "https://www.iowaasce.org/scholarships",
+    "source": "WebSearch (iowaasce.org, engineering.iastate.edu, studentscholarships.org)",
+    "date_found": "2026-09-10",
+    "data_confidence": "medium"
+  },
+  {
+    "id": "illinois-section-asce-scholarship",
+    "name": "Illinois Section ASCE (IS-ASCE) Scholarships",
+    "sponsor": "American Society of Civil Engineers -- Illinois Section",
+    "amount": "$1,000-$2,000 per award across multiple institute-specific tracks (e.g. Transportation & Development Institute: 2 awards of $2,000)",
+    "deadline": "2026-03-27",
+    "deadline_note": "2026 cycle deadline (already past as of this report). Next cycle likely ~March 2027; watch isasce.org.",
+    "renewable": null,
+    "eligibility_criteria": {
+      "text": "Illinois Section of ASCE scholarships across several institute tracks (Construction, Environmental/Water Resources, Geo-Institute, Structural, Transportation & Development, Utility Engineering). Applicants may apply to multiple tracks on one application. It is NOT confirmed whether applicants must attend an Illinois school, be Illinois residents, or simply be ASCE student members -- the profile here is an Illinois resident attending school in Iowa, so this matters.",
+      "gpa_min": null,
+      "state_residency": null,
+      "school_states": null,
+      "majors": ["civil engineering", "transportation"],
+      "age_min": null,
+      "age_max": null,
+      "identity_requirements": null,
+      "citizenship": null,
+      "other_notes": "Could not confirm the Illinois-school-vs-Illinois-resident question from search results alone -- verify at isasce.org before applying."
+    },
+    "application_effort": {
+      "essay_required": null,
+      "letters_of_rec_required": null,
+      "estimated_time": null,
+      "notes": "Uses a standard IS-ASCE scholarship application PDF; specific requirements not confirmed."
+    },
+    "url": "https://isasce.org/resources-2/scholarships/",
+    "source": "WebSearch (isasce.org)",
+    "date_found": "2026-09-10",
+    "data_confidence": "low"
+  },
+  {
+    "id": "point-foundation-flagship-scholarship",
+    "name": "Point Foundation Flagship Scholarship",
+    "sponsor": "Point Foundation",
+    "amount": "Multi-year scholarship + mentorship (specific dollar figure not published)",
+    "deadline": null,
+    "deadline_note": "Sources conflict: April 9, 2026 vs. November 20, 2026. Confirm the current cycle's deadline at pointfoundation.org/scholarships/flagship.",
+    "renewable": true,
+    "eligibility_criteria": {
+      "text": "For LGBTQ+ and ally students enrolled full-time in a bachelor's, graduate, or professional degree program at an accredited, not-for-profit U.S. college or university. Minimum cumulative GPA of 3.3.",
+      "gpa_min": 3.3,
+      "state_residency": null,
+      "school_states": null,
+      "majors": null,
+      "age_min": null,
+      "age_max": null,
+      "identity_requirements": ["lgbtq"],
+      "citizenship": null,
+      "other_notes": ""
+    },
+    "application_effort": {
+      "essay_required": true,
+      "letters_of_rec_required": true,
+      "estimated_time": "high",
+      "notes": "Competitive national scholarship; expect multiple essays and recommendation letters."
+    },
+    "url": "https://pointfoundation.org/scholarships/flagship",
+    "source": "WebSearch (pointfoundation.org, k-state.edu, buffalo.edu)",
+    "date_found": "2026-09-10",
+    "data_confidence": "medium"
+  },
+  {
+    "id": "neurodiversity-alliance-scholarship",
+    "name": "The Neurodiversity Alliance Scholarship",
+    "sponsor": "The Neurodiversity Alliance (formerly Eye to Eye)",
+    "amount": "$2,500 (full-time, 4-year) or $1,000 (part-time / community college)",
+    "deadline": "2026-08-15",
+    "deadline_note": "2026-27 cycle disbursement deadline (already past as of this report). Watch thendalliance.org/scholarships for the next cycle.",
+    "renewable": null,
+    "eligibility_criteria": {
+      "text": "For applicants who identify as neurodivergent with learning-related challenges (dyslexia, ADHD, processing disorders, autism, or similar), age 16-26 during the 2026-27 academic year, enrolled or planning to enroll at a not-for-profit U.S. college or university.",
+      "gpa_min": null,
+      "state_residency": null,
+      "school_states": null,
+      "majors": null,
+      "age_min": 16,
+      "age_max": 26,
+      "identity_requirements": ["adhd_or_learning_disability"],
+      "citizenship": null,
+      "other_notes": "Age 27 is one year past the published cutoff -- worth a direct email to the program to check exact age-as-of-date rules before ruling it out."
+    },
+    "application_effort": {
+      "essay_required": null,
+      "letters_of_rec_required": null,
+      "estimated_time": null,
+      "notes": "No GPA or essay requirement found in search results; not independently confirmed."
+    },
+    "url": "https://thendalliance.org/scholarships/faq/",
+    "source": "WebSearch (thendalliance.org, fastweb.com)",
+    "date_found": "2026-09-10",
+    "data_confidence": "medium"
+  },
+  {
+    "id": "first-gen-fellowship-2026",
+    "name": "First Gen Fellowship 2026",
+    "sponsor": "Opportunities for Youth",
+    "amount": "$1,000",
+    "deadline": "2026-09-16",
+    "deadline_note": "",
+    "renewable": null,
+    "eligibility_criteria": {
+      "text": "Direct financial assistance for first-generation college students facing financial hardship.",
+      "gpa_min": null,
+      "state_residency": null,
+      "school_states": null,
+      "majors": null,
+      "age_min": null,
+      "age_max": null,
+      "identity_requirements": ["first_generation_broad"],
+      "citizenship": null,
+      "other_notes": "Whether this program uses a strict (neither parent has any bachelor's degree) or broad first-gen definition is unconfirmed -- profile qualifies under a broad definition only (first on father's side)."
+    },
+    "application_effort": {
+      "essay_required": null,
+      "letters_of_rec_required": null,
+      "estimated_time": null,
+      "notes": "Only found via one secondary source (not the funder's own site) -- verify legitimacy and exact requirements before applying."
+    },
+    "url": "https://opportunitiesforyouth.org/2026/09/03/first-gen-fellowship-2026-1000-grants-for-first-generation-college-students-facing-financial-hardship-in-the-united-states/",
+    "source": "WebSearch (opportunitiesforyouth.org)",
+    "date_found": "2026-09-10",
+    "data_confidence": "low"
+  },
+  {
+    "id": "kadzai-law-group-first-gen-scholarship",
+    "name": "First-Generation College Student Scholarship",
+    "sponsor": "Kadzai Law Group",
+    "amount": "$2,500",
+    "deadline": "2026-09-28",
+    "deadline_note": "Deadline given as for the \"Fall 2026 semester\" cycle.",
+    "renewable": null,
+    "eligibility_criteria": {
+      "text": "For first-generation college students.",
+      "gpa_min": null,
+      "state_residency": null,
+      "school_states": null,
+      "majors": null,
+      "age_min": null,
+      "age_max": null,
+      "identity_requirements": ["first_generation_broad"],
+      "citizenship": null,
+      "other_notes": "Same first-gen-definition caveat as the First Gen Fellowship above. Sponsor is a law firm; small awards like this often require a short essay even when not stated in aggregator summaries."
+    },
+    "application_effort": {
+      "essay_required": null,
+      "letters_of_rec_required": null,
+      "estimated_time": null,
+      "notes": "Specific application components not confirmed from search results."
+    },
+    "url": "https://www.kadzailawgroup.com/scholarship",
+    "source": "WebSearch (kadzailawgroup.com)",
+    "date_found": "2026-09-10",
+    "data_confidence": "low"
+  },
+  {
+    "id": "sallie-simple-scholarship",
+    "name": "Sallie Simple Scholarship",
+    "sponsor": "Sallie",
+    "amount": "$2,000",
+    "deadline": "2026-10-15",
+    "deadline_note": "",
+    "renewable": null,
+    "eligibility_criteria": {
+      "text": "Described as a simple, no-essay, no-account-signup scholarship for students seeking help paying for school, with no minimum GPA. This was surfaced from a page organized under Sallie's LGBTQ+ scholarship content -- it is unclear whether it is actually restricted to LGBTQ+ applicants or just featured there as one broadly-open option.",
+      "gpa_min": null,
+      "state_residency": null,
+      "school_states": null,
+      "majors": null,
+      "age_min": null,
+      "age_max": null,
+      "identity_requirements": null,
+      "citizenship": null,
+      "other_notes": "Confirm on-site whether this scholarship has any identity-based restriction before assuming it's open to all."
+    },
+    "application_effort": {
+      "essay_required": false,
+      "letters_of_rec_required": false,
+      "estimated_time": "low",
+      "notes": "No essay, no account sign-up, per the source description."
+    },
+    "url": "https://www.sallie.com/scholarships/types/lgbtq",
+    "source": "WebSearch (sallie.com)",
+    "date_found": "2026-09-10",
+    "data_confidence": "low"
+  },
+  {
+    "id": "bold-be-bold-no-essay-scholarship",
+    "name": "$25,000 \"Be Bold\" No-Essay Scholarship",
+    "sponsor": "Bold.org",
+    "amount": "$25,000",
+    "deadline": "2026-09-30",
+    "deadline_note": "Winners announced Dec 1, 2026.",
+    "renewable": null,
+    "eligibility_criteria": {
+      "text": "Open to students at any education level, any school, any field of study, and any GPA. Winner selected as the applicant with the \"boldest profile\" (subjective, non-academic judging criteria) rather than by fixed eligibility rules.",
+      "gpa_min": null,
+      "state_residency": null,
+      "school_states": null,
+      "majors": null,
+      "age_min": null,
+      "age_max": null,
+      "identity_requirements": null,
+      "citizenship": null,
+      "other_notes": "Selection is a subjective donor pick, not a rules-based eligibility match -- treat as a lottery-style long shot despite open eligibility."
+    },
+    "application_effort": {
+      "essay_required": false,
+      "letters_of_rec_required": false,
+      "estimated_time": "low",
+      "notes": "Requires creating a Bold.org profile."
+    },
+    "url": "https://bold.org/scholarships/the-be-bold-no-essay-scholarship/",
+    "source": "WebSearch (bold.org, niche.com, scholarships.com)",
+    "date_found": "2026-09-10",
+    "data_confidence": "medium"
+  },
+  {
+    "id": "scholarships360-no-essay-10000",
+    "name": "Scholarships360 $10,000 \"No Essay\" Scholarship",
+    "sponsor": "Scholarships360",
+    "amount": "$10,000",
+    "deadline": null,
+    "deadline_note": "Rolling monthly deadlines. Final 2026-27 cycle application date reported as June 30, 2027; winner announced by July 31, 2027.",
+    "renewable": null,
+    "eligibility_criteria": {
+      "text": "Open to high school, college, community college, graduate, technical, and vocational students. No essay or transcript required.",
+      "gpa_min": null,
+      "state_residency": null,
+      "school_states": null,
+      "majors": null,
+      "age_min": null,
+      "age_max": null,
+      "identity_requirements": null,
+      "citizenship": ["u.s. citizen", "permanent resident"],
+      "other_notes": ""
+    },
+    "application_effort": {
+      "essay_required": false,
+      "letters_of_rec_required": false,
+      "estimated_time": "low",
+      "notes": "Requires a free Scholarships360 account."
+    },
+    "url": "https://scholarships360.org/scholarships/search/10000-no-essay-scholarship/",
+    "source": "WebSearch (scholarships360.org, vcom.edu, collegedata.com)",
+    "date_found": "2026-09-10",
+    "data_confidence": "medium"
+  },
+  {
+    "id": "illinois-map-grant",
+    "name": "Illinois Monetary Award Program (MAP) Grant",
+    "sponsor": "Illinois Student Assistance Commission (ISAC)",
+    "amount": "$300-$8,064 per year",
+    "deadline": null,
+    "deadline_note": "Need-based, first-come-first-served once FAFSA opens each Oct 1; 2026-27 priority date for returning recipients is March 1, 2026 (already past for that priority window, but funds are pursued via FAFSA filing, not a fixed hard deadline).",
+    "renewable": null,
+    "eligibility_criteria": {
+      "text": "Illinois resident, demonstrated financial need (Student Aid Index below $9,000 via FAFSA), and -- critically -- enrolled at an APPROVED ILLINOIS INSTITUTION. Profile is an Illinois resident but attends the University of Iowa, an out-of-state school, which is disqualifying for MAP.",
+      "gpa_min": null,
+      "state_residency": ["Illinois"],
+      "school_states": ["Illinois"],
+      "majors": null,
+      "age_min": null,
+      "age_max": null,
+      "identity_requirements": null,
+      "citizenship": null,
+      "other_notes": "Included for completeness / in case of a future transfer to an Illinois school -- currently not eligible due to attending an out-of-state institution."
+    },
+    "application_effort": {
+      "essay_required": false,
+      "letters_of_rec_required": false,
+      "estimated_time": "low",
+      "notes": "Awarded automatically based on FAFSA data for eligible in-state enrollment -- no separate application."
+    },
+    "url": "https://www.isac.org/students/during-college/types-of-financial-aid/grants/monetary-award-program/",
+    "source": "WebSearch (isac.org)",
+    "date_found": "2026-09-10",
+    "data_confidence": "high"
+  },
+  {
+    "id": "united-methodist-scholarships",
+    "name": "United Methodist Church Scholarships (GBHEM / UMHEF)",
+    "sponsor": "General Board of Higher Education & Ministry (GBHEM) and United Methodist Higher Education Foundation (UMHEF)",
+    "amount": "Varies by named scholarship fund (GBHEM alone distributes ~$4M/year across 70+ funds)",
+    "deadline": null,
+    "deadline_note": "GBHEM 2026 cycle closed March 6, 2026; UMHEF 2026 cycle closed March 1, 2026 -- both already past. Next cycle likely ~March 2027, unconfirmed.",
+    "renewable": null,
+    "eligibility_criteria": {
+      "text": "Over 70 scholarship funds for United Methodist students; some require attending a UM-related school, active church membership/pastor endorsement, or specific denominational ties -- requirements vary per named fund and were not individually verified. Profile lists Methodist religious affiliation.",
+      "gpa_min": null,
+      "state_residency": null,
+      "school_states": null,
+      "majors": null,
+      "age_min": null,
+      "age_max": null,
+      "identity_requirements": ["religion_methodist_unverified"],
+      "citizenship": null,
+      "other_notes": "'religion_methodist_unverified' is intentionally not a key the matcher can resolve -- per-fund requirements vary too much to encode generically; requires manually browsing both sites' fund lists."
+    },
+    "application_effort": {
+      "essay_required": null,
+      "letters_of_rec_required": null,
+      "estimated_time": "high",
+      "notes": "Likely requires pastor/church endorsement for at least some funds; not confirmed which."
+    },
+    "url": "https://www.gbhem.org/scholarships/",
+    "source": "WebSearch (gbhem.org, umhef.org)",
+    "date_found": "2026-09-10",
+    "data_confidence": "low"
+  },
+  {
+    "id": "childrens-nebraska-employee-dependent-scholarship",
+    "name": "Employee/Dependent Scholarship (father's employer)",
+    "sponsor": "Possibly Children's Nebraska -- father's specific Omaha children's-hospital employer not confirmed",
+    "amount": "Reported example: ~$14,000 over two years for an Associate's degree at Children's Nebraska (bachelor's-degree terms not confirmed)",
+    "deadline": null,
+    "deadline_note": "Internal employee-benefit program -- no external application deadline found.",
+    "renewable": null,
+    "eligibility_criteria": {
+      "text": "Children's Nebraska reportedly offers a Community Scholarship to employees, spouses, and dependent children age 23 or under. Profile states father 'works for a children's hospital in Omaha, NE' without naming the specific employer (candidates include Children's Nebraska and Boys Town National Research Hospital), and does not state his exact dependent-eligibility status.",
+      "gpa_min": null,
+      "state_residency": null,
+      "school_states": null,
+      "majors": null,
+      "age_min": null,
+      "age_max": null,
+      "identity_requirements": null,
+      "citizenship": null,
+      "other_notes": "Two unresolved facts block a confident answer here: (1) which Omaha children's hospital is the actual employer, and (2) the dependent age cap reported (23) may or may not apply -- profile age is 27. Do not rely on this without confirming directly with the employer's HR/benefits department."
+    },
+    "application_effort": {
+      "essay_required": null,
+      "letters_of_rec_required": null,
+      "estimated_time": null,
+      "notes": "No direct program page found -- contact HR/benefits directly rather than relying on a URL here."
+    },
+    "url": "",
+    "source": "WebSearch (unmc.edu, unomaha.edu, nebraska.edu -- general Nebraska employee/dependent scholarship pages; no Children's Nebraska-specific official page located)",
+    "date_found": "2026-09-10",
+    "data_confidence": "low"
+  }
+]
