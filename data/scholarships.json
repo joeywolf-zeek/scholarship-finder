@@ -558,7 +558,8 @@
       "citizenship": null,
       "gender_requirements": null,
       "requires_entering_freshman": true,
-      "other_notes": "Applies only to students entering college straight from high school -- not for continuing/returning students."
+      "requires_pell_eligible": true,
+      "other_notes": "Applies only to students entering college straight from high school -- not for continuing/returning students. Also requires Pell Grant eligibility -- profile confirms not Pell-eligible, a second independent disqualifier."
     },
     "application_effort": {
       "essay_required": true,

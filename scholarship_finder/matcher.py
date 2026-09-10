@@ -173,6 +173,15 @@ def evaluate(scholarship: Scholarship, profile: dict[str, Any]) -> Evaluation:
         else:
             reasons_unclear.append("Requires applying as an entering high school senior; education level not on file.")
 
+    if exclude_reason is None and ec.requires_pell_eligible:
+        pell = _get(profile, "academic", "pell_grant_eligible")
+        if pell is None:
+            reasons_unclear.append("Requires Pell Grant eligibility; not confirmed on file.")
+        elif pell is False:
+            exclude_reason = "Requires Pell Grant eligibility; profile confirms not Pell-eligible."
+        else:
+            reasons_pass.append("Pell Grant eligible.")
+
     if exclude_reason is None and ec.identity_requirements:
         for key in ec.identity_requirements:
             if key not in KNOWN_IDENTITY_KEYS:

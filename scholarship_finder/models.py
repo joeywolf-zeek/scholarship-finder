@@ -20,6 +20,7 @@ class EligibilityCriteria:
     citizenship: Optional[list[str]] = None
     gender_requirements: Optional[list[str]] = None  # e.g. ["female"]
     requires_entering_freshman: Optional[bool] = None  # True: must be a HS senior applying pre-enrollment
+    requires_pell_eligible: Optional[bool] = None
     other_notes: str = ""
 
     @staticmethod
@@ -36,6 +37,7 @@ class EligibilityCriteria:
             citizenship=d.get("citizenship"),
             gender_requirements=d.get("gender_requirements"),
             requires_entering_freshman=d.get("requires_entering_freshman"),
+            requires_pell_eligible=d.get("requires_pell_eligible"),
             other_notes=d.get("other_notes", ""),
         )
 
