@@ -342,34 +342,36 @@
   },
   {
     "id": "childrens-nebraska-employee-dependent-scholarship",
-    "name": "Employee/Dependent Scholarship (father's employer)",
-    "sponsor": "Possibly Children's Nebraska -- father's specific Omaha children's-hospital employer not confirmed",
-    "amount": "Reported example: ~$14,000 over two years for an Associate's degree at Children's Nebraska (bachelor's-degree terms not confirmed)",
+    "name": "Children's Nebraska / Clarkson College Community Scholarship (father's employer)",
+    "sponsor": "Children's Nebraska, via a partnership with Clarkson College",
+    "amount": "~$14,000 over two years for an Associate's degree at Clarkson College",
     "deadline": null,
     "deadline_note": "Internal employee-benefit program -- no external application deadline found.",
     "renewable": null,
     "eligibility_criteria": {
-      "text": "Children's Nebraska reportedly offers a Community Scholarship to employees, spouses, and dependent children age 23 or under. Profile states father 'works for a children's hospital in Omaha, NE' without naming the specific employer (candidates include Children's Nebraska and Boys Town National Research Hospital), and does not state his exact dependent-eligibility status.",
+      "text": "Confirmed: father's employer is Children's Nebraska (Children's Hospital of Omaha). Children's Nebraska offers a Community Scholarship to employees, spouses, and dependent children age 23 or under, specifically for degree programs at Clarkson College (a Omaha health-sciences college affiliated with Children's Nebraska).",
       "gpa_min": null,
       "state_residency": null,
       "school_states": null,
       "majors": null,
       "age_min": null,
-      "age_max": null,
+      "age_max": 23,
       "identity_requirements": null,
       "citizenship": null,
-      "other_notes": "Two unresolved facts block a confident answer here: (1) which Omaha children's hospital is the actual employer, and (2) the dependent age cap reported (23) may or may not apply -- profile age is 27. Do not rely on this without confirming directly with the employer's HR/benefits department."
+      "gender_requirements": null,
+      "requires_entering_freshman": false,
+      "other_notes": "Two separate blockers found: (1) profile age (27) exceeds the reported dependent age cap of 23; (2) the specific program found is tied to enrollment at Clarkson College, not University of Iowa. Children's Nebraska may offer other, more general employee-dependent tuition benefits not tied to Clarkson College or the age-23 cap -- worth a direct question to the father's HR/benefits department, since that generic possibility isn't ruled out, only this specific Clarkson College program."
     },
     "application_effort": {
       "essay_required": null,
       "letters_of_rec_required": null,
       "estimated_time": null,
-      "notes": "No direct program page found -- contact HR/benefits directly rather than relying on a URL here."
+      "notes": "Contact Children's Nebraska HR/benefits directly to ask about non-Clarkson-College tuition assistance for dependents."
     },
-    "url": "",
-    "source": "WebSearch (unmc.edu, unomaha.edu, nebraska.edu -- general Nebraska employee/dependent scholarship pages; no Children's Nebraska-specific official page located)",
+    "url": "https://www.clarksoncollege.edu/childrens-hospital/",
+    "source": "WebSearch (clarksoncollege.edu, unmc.edu)",
     "date_found": "2026-09-10",
-    "data_confidence": "low"
+    "data_confidence": "medium"
   },
   {
     "id": "pflag-illinois-scholarship",
@@ -486,11 +488,11 @@
       "majors": null,
       "age_min": null,
       "age_max": null,
-      "identity_requirements": ["military_dependent"],
+      "identity_requirements": ["military_dependent_killed_or_disabled"],
       "citizenship": null,
       "gender_requirements": null,
       "requires_entering_freshman": false,
-      "other_notes": "Hard requirement not confirmable from the profile: the service member (stepfather) must have been killed or have a qualifying service-connected disability. Profile only notes he is 'active/former military' with no GI Bill transfer -- disability/killed-in-service status is unknown. Also requires documentation of the stepchild relationship (marriage certificate)."
+      "other_notes": "Confirmed by user: stepfather was not killed and has no service-connected disability. This scholarship requires one of those -- not eligible."
     },
     "application_effort": {
       "essay_required": null,
@@ -667,5 +669,71 @@
     "source": "WebSearch (usrugbyfoundation.org)",
     "date_found": "2026-09-10",
     "data_confidence": "medium"
+  },
+  {
+    "id": "ceda-csbg-suburban-cook-county-scholarship",
+    "name": "CEDA CSBG Scholarship Program",
+    "sponsor": "CEDA (Community and Economic Development Association)",
+    "amount": "$500-$3,000",
+    "deadline": null,
+    "deadline_note": "Most recent confirmed deadline found was June 14 (2024 cycle) -- 2026 cycle date not confirmed. Historically an annual spring/summer cycle.",
+    "renewable": null,
+    "eligibility_criteria": {
+      "text": "For income-eligible residents of SUBURBAN Cook County (i.e. Cook County outside the City of Chicago) who demonstrate academic achievement, career potential, and educational motivation.",
+      "gpa_min": null,
+      "state_residency": null,
+      "school_states": null,
+      "majors": null,
+      "age_min": null,
+      "age_max": null,
+      "identity_requirements": null,
+      "citizenship": null,
+      "gender_requirements": null,
+      "requires_entering_freshman": false,
+      "other_notes": "Profile confirms Cook County residency but not whether that's within the City of Chicago itself (excluded) or a suburb (eligible) -- this program is explicitly suburban-only. Household income under $30k should clear the income-eligibility bar easily if the suburban condition holds."
+    },
+    "application_effort": {
+      "essay_required": null,
+      "letters_of_rec_required": null,
+      "estimated_time": "medium",
+      "notes": "Requires proof of residency and income eligibility documents."
+    },
+    "url": "https://www.cedaorg.net/en/find-services/family-and-community-engagement",
+    "source": "WebSearch (cedaorg.net, brookfieldil.gov, northcentralcollege.academicworks.com)",
+    "date_found": "2026-09-10",
+    "data_confidence": "medium"
+  },
+  {
+    "id": "palumbo-family-foundation-scholarship",
+    "name": "Palumbo Family Foundation Scholarship",
+    "sponsor": "Palumbo Family Foundation",
+    "amount": "Not specified in search results",
+    "deadline": null,
+    "deadline_note": "Not confirmed -- check the foundation's site directly.",
+    "renewable": null,
+    "eligibility_criteria": {
+      "text": "Open to high school seniors and undergraduate students with a GPA of 3.0 or higher, household adjusted gross income of $65,000 or less, and residence in Cook, DuPage, Kane, Lake, or Will County for at least 6 months.",
+      "gpa_min": 3.0,
+      "state_residency": null,
+      "school_states": null,
+      "majors": null,
+      "age_min": null,
+      "age_max": null,
+      "identity_requirements": null,
+      "citizenship": null,
+      "gender_requirements": null,
+      "requires_entering_freshman": false,
+      "other_notes": "County and income requirements are both met -- the GPA floor is the sole blocker."
+    },
+    "application_effort": {
+      "essay_required": null,
+      "letters_of_rec_required": null,
+      "estimated_time": null,
+      "notes": ""
+    },
+    "url": "https://www.campusreel.org/scholarships/location/illinois-scholarships/cook-county",
+    "source": "WebSearch (campusreel.org)",
+    "date_found": "2026-09-10",
+    "data_confidence": "low"
   }
 ]

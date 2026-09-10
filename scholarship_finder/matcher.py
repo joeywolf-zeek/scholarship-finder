@@ -31,6 +31,7 @@ KNOWN_IDENTITY_KEYS = {
     "first_generation_strict",
     "first_generation_broad",
     "military_dependent",
+    "military_dependent_killed_or_disabled",
     "single_parent_background",
 }
 
@@ -60,6 +61,15 @@ def _check_identity(key: str, profile: dict[str, Any]) -> Optional[bool]:
         return bool(strict) or bool(note.strip())
     if key == "military_dependent":
         return _get(profile, "family_and_community", "military_affiliation") is not None
+    if key == "military_dependent_killed_or_disabled":
+        mil = _get(profile, "family_and_community", "military_affiliation")
+        if mil is None:
+            return None
+        killed = mil.get("killed_in_service")
+        disabled = mil.get("service_connected_disability")
+        if killed is None and disabled is None:
+            return None
+        return bool(killed) or bool(disabled)
     if key == "single_parent_background":
         return bool(_get(profile, "special_circumstances", "single_parent_background"))
     return None  # unknown key
