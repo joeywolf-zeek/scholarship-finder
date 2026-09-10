@@ -142,6 +142,27 @@ def evaluate(scholarship: Scholarship, profile: dict[str, Any]) -> Evaluation:
         else:
             reasons_pass.append("Citizenship/residency status matches requirement.")
 
+    if exclude_reason is None and ec.gender_requirements:
+        gender = str(_get(profile, "demographics", "gender_identity") or "").strip().lower()
+        if not gender:
+            reasons_unclear.append(f"Requires gender in {ec.gender_requirements}; not on file.")
+        elif gender not in [g.lower() for g in ec.gender_requirements]:
+            exclude_reason = f"Requires gender in {ec.gender_requirements}; profile gender is '{gender}'."
+        else:
+            reasons_pass.append("Gender matches requirement.")
+
+    if exclude_reason is None and ec.requires_entering_freshman:
+        education_level = str(_get(profile, "academic", "education_level") or "").lower()
+        if "high school" in education_level or "senior" in education_level:
+            reasons_pass.append("Open to entering high school seniors, and profile is one.")
+        elif education_level:
+            exclude_reason = (
+                "Requires applying as an entering/graduating high school senior (pre-enrollment); "
+                f"profile education level is '{education_level}' (already enrolled)."
+            )
+        else:
+            reasons_unclear.append("Requires applying as an entering high school senior; education level not on file.")
+
     if exclude_reason is None and ec.identity_requirements:
         for key in ec.identity_requirements:
             if key not in KNOWN_IDENTITY_KEYS:

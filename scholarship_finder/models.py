@@ -18,6 +18,8 @@ class EligibilityCriteria:
     age_max: Optional[int] = None
     identity_requirements: Optional[list[str]] = None  # see matcher.KNOWN_IDENTITY_KEYS
     citizenship: Optional[list[str]] = None
+    gender_requirements: Optional[list[str]] = None  # e.g. ["female"]
+    requires_entering_freshman: Optional[bool] = None  # True: must be a HS senior applying pre-enrollment
     other_notes: str = ""
 
     @staticmethod
@@ -32,6 +34,8 @@ class EligibilityCriteria:
             age_max=d.get("age_max"),
             identity_requirements=d.get("identity_requirements"),
             citizenship=d.get("citizenship"),
+            gender_requirements=d.get("gender_requirements"),
+            requires_entering_freshman=d.get("requires_entering_freshman"),
             other_notes=d.get("other_notes", ""),
         )
 
