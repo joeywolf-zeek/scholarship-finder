@@ -11,8 +11,12 @@
       "text": "Awarded to students at Dordt University, Iowa State University, and The University of Iowa. Civil engineering coursework is the natural fit for this section's scholarships.",
       "gpa_min": null,
       "state_residency": null,
-      "school_states": ["Iowa"],
-      "majors": ["civil engineering"],
+      "school_states": [
+        "Iowa"
+      ],
+      "majors": [
+        "civil engineering"
+      ],
       "age_min": null,
       "age_max": null,
       "identity_requirements": null,
@@ -43,7 +47,10 @@
       "gpa_min": null,
       "state_residency": null,
       "school_states": null,
-      "majors": ["civil engineering", "transportation"],
+      "majors": [
+        "civil engineering",
+        "transportation"
+      ],
       "age_min": null,
       "age_max": null,
       "identity_requirements": null,
@@ -77,7 +84,9 @@
       "majors": null,
       "age_min": null,
       "age_max": null,
-      "identity_requirements": ["lgbtq"],
+      "identity_requirements": [
+        "lgbtq"
+      ],
       "citizenship": null,
       "other_notes": ""
     },
@@ -108,7 +117,9 @@
       "majors": null,
       "age_min": 16,
       "age_max": 26,
-      "identity_requirements": ["adhd_or_learning_disability"],
+      "identity_requirements": [
+        "adhd_or_learning_disability"
+      ],
       "citizenship": null,
       "other_notes": "Age 27 is one year past the published cutoff -- worth a direct email to the program to check exact age-as-of-date rules before ruling it out."
     },
@@ -139,7 +150,9 @@
       "majors": null,
       "age_min": null,
       "age_max": null,
-      "identity_requirements": ["first_generation_broad"],
+      "identity_requirements": [
+        "first_generation_broad"
+      ],
       "citizenship": null,
       "other_notes": "Whether this program uses a strict (neither parent has any bachelor's degree) or broad first-gen definition is unconfirmed -- profile qualifies under a broad definition only (first on father's side)."
     },
@@ -170,7 +183,9 @@
       "majors": null,
       "age_min": null,
       "age_max": null,
-      "identity_requirements": ["first_generation_broad"],
+      "identity_requirements": [
+        "first_generation_broad"
+      ],
       "citizenship": null,
       "other_notes": "Same first-gen-definition caveat as the First Gen Fellowship above. Sponsor is a law firm; small awards like this often require a short essay even when not stated in aggregator summaries."
     },
@@ -264,7 +279,10 @@
       "age_min": null,
       "age_max": null,
       "identity_requirements": null,
-      "citizenship": ["u.s. citizen", "permanent resident"],
+      "citizenship": [
+        "u.s. citizen",
+        "permanent resident"
+      ],
       "other_notes": ""
     },
     "application_effort": {
@@ -287,16 +305,21 @@
     "deadline_note": "Need-based, first-come-first-served once FAFSA opens each Oct 1; 2026-27 priority date for returning recipients is March 1, 2026 (already past for that priority window, but funds are pursued via FAFSA filing, not a fixed hard deadline).",
     "renewable": null,
     "eligibility_criteria": {
-      "text": "Illinois resident, demonstrated financial need (Student Aid Index below $9,000 via FAFSA), and -- critically -- enrolled at an APPROVED ILLINOIS INSTITUTION. Profile is an Illinois resident but attends the University of Iowa, an out-of-state school, which is disqualifying for MAP.",
+      "text": "Illinois resident, demonstrated financial need (Student Aid Index below $9,000 via FAFSA), and -- critically -- enrolled at an APPROVED ILLINOIS INSTITUTION. Profile is an Illinois resident but attends the University of Iowa, an out-of-state school, which is disqualifying for MAP. Additionally, Illinois MAP grant policy excludes students who have already earned a bachelor's degree (MAP funds a first undergraduate degree only) -- profile already holds a B.A. in Art, which is an independent disqualifier regardless of school location.",
       "gpa_min": null,
-      "state_residency": ["Illinois"],
-      "school_states": ["Illinois"],
+      "state_residency": [
+        "Illinois"
+      ],
+      "school_states": [
+        "Illinois"
+      ],
       "majors": null,
       "age_min": null,
       "age_max": null,
       "identity_requirements": null,
       "citizenship": null,
-      "other_notes": "Included for completeness / in case of a future transfer to an Illinois school -- currently not eligible due to attending an out-of-state institution."
+      "other_notes": "Included for completeness / in case of a future transfer to an Illinois school -- currently not eligible due to attending an out-of-state institution.",
+      "requires_first_bachelors_degree": true
     },
     "application_effort": {
       "essay_required": false,
@@ -325,7 +348,9 @@
       "majors": null,
       "age_min": null,
       "age_max": null,
-      "identity_requirements": ["religion_methodist_unverified"],
+      "identity_requirements": [
+        "religion_methodist_unverified"
+      ],
       "citizenship": null,
       "other_notes": "'religion_methodist_unverified' is intentionally not a key the matcher can resolve -- per-fund requirements vary too much to encode generically; requires manually browsing both sites' fund lists."
     },
@@ -384,12 +409,16 @@
     "eligibility_criteria": {
       "text": "Unrestricted $2,500 scholarship for Illinois LGBTQ+ undergraduate, graduate, and continuing students ages 17-28.",
       "gpa_min": null,
-      "state_residency": ["Illinois"],
+      "state_residency": [
+        "Illinois"
+      ],
       "school_states": null,
       "majors": null,
       "age_min": 17,
       "age_max": 28,
-      "identity_requirements": ["lgbtq"],
+      "identity_requirements": [
+        "lgbtq"
+      ],
       "citizenship": null,
       "gender_requirements": null,
       "requires_entering_freshman": false,
@@ -419,11 +448,16 @@
       "gpa_min": null,
       "state_residency": null,
       "school_states": null,
-      "majors": ["engineering", "civil engineering"],
+      "majors": [
+        "engineering",
+        "civil engineering"
+      ],
       "age_min": null,
       "age_max": null,
       "identity_requirements": null,
-      "citizenship": ["u.s. citizen"],
+      "citizenship": [
+        "u.s. citizen"
+      ],
       "gender_requirements": null,
       "requires_entering_freshman": false,
       "other_notes": "Class standing (must be entering/continuing junior year) is not on file in the profile -- confirm this before applying. Also requires becoming an NSPE student member, which is a separate step/cost."
@@ -452,12 +486,16 @@
       "gpa_min": null,
       "state_residency": null,
       "school_states": null,
-      "majors": ["engineering"],
+      "majors": [
+        "engineering"
+      ],
       "age_min": null,
       "age_max": null,
       "identity_requirements": null,
       "citizenship": null,
-      "gender_requirements": ["female"],
+      "gender_requirements": [
+        "female"
+      ],
       "requires_entering_freshman": false,
       "other_notes": ""
     },
@@ -488,7 +526,9 @@
       "majors": null,
       "age_min": null,
       "age_max": null,
-      "identity_requirements": ["military_dependent_killed_or_disabled"],
+      "identity_requirements": [
+        "military_dependent_killed_or_disabled"
+      ],
       "citizenship": null,
       "gender_requirements": null,
       "requires_entering_freshman": false,
@@ -507,25 +547,28 @@
   },
   {
     "id": "chadd-adhd-scholarship-check",
-    "name": "CHADD ADHD-related scholarship programs (unconfirmed)",
+    "name": "CHADD ADHD scholarship (confirmed inactive)",
     "sponsor": "CHADD (Children and Adults with ADHD)",
     "amount": "Unknown -- not confirmed",
     "deadline": null,
     "deadline_note": "No specific program or deadline could be confirmed from search results.",
     "renewable": null,
     "eligibility_criteria": {
-      "text": "CHADD is reported to offer ADHD-related scholarships for high school and college students, but no current, named program page could be located and confirmed in this pass. Note: ADDA's own ADHD scholarship programs (Novotni, Moulton-Farnsworth) were confirmed DISCONTINUED as of this search -- do not pursue those.",
+      "text": "CHADD confirmed via direct research as 'no applications being accepted at this time.' ADDA's own scholarship programs (Novotni, Moulton-Farnsworth) are also confirmed discontinued.",
       "gpa_min": null,
       "state_residency": null,
       "school_states": null,
       "majors": null,
       "age_min": null,
       "age_max": null,
-      "identity_requirements": ["adhd_or_learning_disability"],
+      "identity_requirements": [
+        "adhd_or_learning_disability"
+      ],
       "citizenship": null,
       "gender_requirements": null,
       "requires_entering_freshman": false,
-      "other_notes": "Placeholder entry -- go to chadd.org directly to confirm whether an active scholarship program currently exists before spending any time here."
+      "other_notes": "Both leads are dead ends right now -- not a live program to apply to.",
+      "program_inactive": true
     },
     "application_effort": {
       "essay_required": null,
@@ -536,7 +579,7 @@
     "url": "https://chadd.org/",
     "source": "WebSearch (add.org, healthunlocked.com)",
     "date_found": "2026-09-10",
-    "data_confidence": "low"
+    "data_confidence": "high"
   },
   {
     "id": "dell-scholars-program",
@@ -589,7 +632,9 @@
       "age_min": null,
       "age_max": null,
       "identity_requirements": null,
-      "citizenship": ["u.s. citizen"],
+      "citizenship": [
+        "u.s. citizen"
+      ],
       "gender_requirements": null,
       "requires_entering_freshman": true,
       "other_notes": "Applies while still a high school junior, applying ahead of college enrollment -- not for students already in college."
@@ -622,7 +667,9 @@
       "age_min": null,
       "age_max": null,
       "identity_requirements": null,
-      "citizenship": ["u.s. citizen"],
+      "citizenship": [
+        "u.s. citizen"
+      ],
       "gender_requirements": null,
       "requires_entering_freshman": true,
       "other_notes": "Applies while still a high school senior -- not for students already enrolled in college."
@@ -734,6 +781,1211 @@
     },
     "url": "https://www.campusreel.org/scholarships/location/illinois-scholarships/cook-county",
     "source": "WebSearch (campusreel.org)",
+    "date_found": "2026-09-10",
+    "data_confidence": "low"
+  },
+  {
+    "id": "scholarships360-low-income-scholarship",
+    "name": "Scholarships360 Low-Income Scholarship",
+    "sponsor": "Scholarships360",
+    "amount": "$1,000",
+    "deadline": null,
+    "deadline_note": "Rolling/recurring.",
+    "renewable": null,
+    "eligibility_criteria": {
+      "text": "Open to high schoolers and current undergrad/grad students, no age limit, based on financial need.",
+      "gpa_min": null,
+      "state_residency": null,
+      "school_states": null,
+      "majors": null,
+      "age_min": null,
+      "age_max": null,
+      "identity_requirements": null,
+      "citizenship": null,
+      "gender_requirements": null,
+      "requires_entering_freshman": false,
+      "other_notes": "Household income under $20k is a direct match."
+    },
+    "application_effort": {
+      "essay_required": null,
+      "letters_of_rec_required": null,
+      "estimated_time": "low",
+      "notes": ""
+    },
+    "url": "https://scholarships360.org/scholarships/scholarships-for-low-income-students/",
+    "source": "User-provided Google Sheet research (Scholarships360)",
+    "date_found": "2026-09-10",
+    "data_confidence": "medium"
+  },
+  {
+    "id": "common-knowledge-scholarship-foundation",
+    "name": "Common Knowledge Scholarship Foundation",
+    "sponsor": "Common Knowledge Scholarship Foundation",
+    "amount": "$250-$2,500 per quiz (max $5,000/person)",
+    "deadline": null,
+    "deadline_note": "Rolling -- new quizzes every 15-30 days, year-round.",
+    "renewable": null,
+    "eligibility_criteria": {
+      "text": "Free account, age 14+, no essay/GPA/financial-need requirement. Award based on quiz score; can enter repeatedly.",
+      "gpa_min": null,
+      "state_residency": null,
+      "school_states": null,
+      "majors": null,
+      "age_min": 14,
+      "age_max": null,
+      "identity_requirements": null,
+      "citizenship": null,
+      "gender_requirements": null,
+      "requires_entering_freshman": false,
+      "other_notes": ""
+    },
+    "application_effort": {
+      "essay_required": false,
+      "letters_of_rec_required": false,
+      "estimated_time": "low",
+      "notes": "Zero-cost and repeatable -- worth doing every cycle."
+    },
+    "url": "https://usascholarships.com/common-knowledge-scholarship-foundation-scholarship/",
+    "source": "User-provided Google Sheet research",
+    "date_found": "2026-09-10",
+    "data_confidence": "medium"
+  },
+  {
+    "id": "niche-no-essay-scholarship",
+    "name": "Niche $2,000 No Essay Scholarship",
+    "sponsor": "Niche",
+    "amount": "$2,000",
+    "deadline": null,
+    "deadline_note": "2026 cycle closed Aug 31, 2026 -- recurs regularly; check niche.com for the next opening.",
+    "renewable": null,
+    "eligibility_criteria": {
+      "text": "Broadly open to any student/adult planning to enroll, U.S. citizen or valid visa, no essay.",
+      "gpa_min": null,
+      "state_residency": null,
+      "school_states": null,
+      "majors": null,
+      "age_min": null,
+      "age_max": null,
+      "identity_requirements": null,
+      "citizenship": null,
+      "gender_requirements": null,
+      "requires_entering_freshman": false,
+      "other_notes": "Different platform than the Scholarships360/Bold.org no-essay entries -- stack all three."
+    },
+    "application_effort": {
+      "essay_required": false,
+      "letters_of_rec_required": false,
+      "estimated_time": "low",
+      "notes": ""
+    },
+    "url": "https://www.niche.com/colleges/scholarships/",
+    "source": "User-provided Google Sheet research",
+    "date_found": "2026-09-10",
+    "data_confidence": "medium"
+  },
+  {
+    "id": "oxygen-att-national-scholarship",
+    "name": "oxyGEN with AT&T National Scholarship",
+    "sponsor": "oxyGEN Employee Resource Group / AT&T",
+    "amount": "$5,000",
+    "deadline": null,
+    "deadline_note": "Check current cycle.",
+    "renewable": null,
+    "eligibility_criteria": {
+      "text": "Enrolled in an accredited U.S. undergrad program, any major, U.S. citizen/permanent resident.",
+      "gpa_min": null,
+      "state_residency": null,
+      "school_states": null,
+      "majors": null,
+      "age_min": null,
+      "age_max": null,
+      "identity_requirements": null,
+      "citizenship": [
+        "u.s. citizen",
+        "permanent resident"
+      ],
+      "gender_requirements": null,
+      "requires_entering_freshman": false,
+      "other_notes": ""
+    },
+    "application_effort": {
+      "essay_required": false,
+      "letters_of_rec_required": false,
+      "estimated_time": "medium",
+      "notes": "Requires a 2-4 minute YouTube video on a STEAM topic."
+    },
+    "url": "https://oxygen-erg.org/scholarship/",
+    "source": "User-provided Google Sheet research",
+    "date_found": "2026-09-10",
+    "data_confidence": "medium"
+  },
+  {
+    "id": "stem-pathways-scholarship",
+    "name": "STEM Pathways Scholarship",
+    "sponsor": "BestColleges",
+    "amount": "$6,000",
+    "deadline": null,
+    "deadline_note": "Check current cycle.",
+    "renewable": null,
+    "eligibility_criteria": {
+      "text": "Undergrad/grad student in the U.S., age 17+, pursuing a STEM-related field. Civil engineering counts as STEM.",
+      "gpa_min": null,
+      "state_residency": null,
+      "school_states": null,
+      "majors": [
+        "engineering",
+        "stem"
+      ],
+      "age_min": 17,
+      "age_max": null,
+      "identity_requirements": null,
+      "citizenship": null,
+      "gender_requirements": null,
+      "requires_entering_freshman": false,
+      "other_notes": ""
+    },
+    "application_effort": {
+      "essay_required": true,
+      "letters_of_rec_required": null,
+      "estimated_time": "medium",
+      "notes": "Essay on raising STEM awareness in underrepresented communities."
+    },
+    "url": "https://www.bestcolleges.com/stem-pathways-scholarship/",
+    "source": "User-provided Google Sheet research",
+    "date_found": "2026-09-10",
+    "data_confidence": "medium"
+  },
+  {
+    "id": "rise-up-scholarship",
+    "name": "Rise Up Scholarship",
+    "sponsor": "Scholarships360",
+    "amount": "Up to $1,000/year (renewable up to 4 years)",
+    "deadline": null,
+    "deadline_note": "Rolling/recurring.",
+    "renewable": true,
+    "eligibility_criteria": {
+      "text": "LGBTQIA+ students and allies submit an essay or video on their role in the LGBTQIA+ community. No major or degree-level restriction.",
+      "gpa_min": null,
+      "state_residency": null,
+      "school_states": null,
+      "majors": null,
+      "age_min": null,
+      "age_max": null,
+      "identity_requirements": [
+        "lgbtq"
+      ],
+      "citizenship": null,
+      "gender_requirements": null,
+      "requires_entering_freshman": false,
+      "other_notes": ""
+    },
+    "application_effort": {
+      "essay_required": true,
+      "letters_of_rec_required": false,
+      "estimated_time": "medium",
+      "notes": ""
+    },
+    "url": "https://scholarships360.org/scholarships/search/rise-up-scholarship/",
+    "source": "User-provided Google Sheet research",
+    "date_found": "2026-09-10",
+    "data_confidence": "medium"
+  },
+  {
+    "id": "sikora-drake-stem-scholarship",
+    "name": "Sikora Drake STEM Scholarship",
+    "sponsor": "Bold.org",
+    "amount": "$1,000",
+    "deadline": null,
+    "deadline_note": "Rolling/recurring -- confirm current cycle deadline on Bold.org.",
+    "renewable": null,
+    "eligibility_criteria": {
+      "text": "Any first-generation, BIPOC, female-identifying, and/or LGBTQ+ student pursuing a STEM degree may apply -- meeting just ONE of these qualifies. Civil engineering counts as STEM.",
+      "gpa_min": null,
+      "state_residency": null,
+      "school_states": null,
+      "majors": [
+        "engineering",
+        "stem"
+      ],
+      "age_min": null,
+      "age_max": null,
+      "identity_requirements": [
+        "lgbtq"
+      ],
+      "citizenship": null,
+      "gender_requirements": null,
+      "requires_entering_freshman": false,
+      "other_notes": "Also independently qualifies via first_generation_broad -- either identity criterion alone is enough given the 'and/or' language."
+    },
+    "application_effort": {
+      "essay_required": true,
+      "letters_of_rec_required": false,
+      "estimated_time": "medium",
+      "notes": "Essay on why diversity in tech/STEM matters to you."
+    },
+    "url": "https://bold.org/scholarships/sikora-drake-stem-scholarship/",
+    "source": "User-provided Google Sheet research",
+    "date_found": "2026-09-10",
+    "data_confidence": "medium"
+  },
+  {
+    "id": "return2college-scholarship",
+    "name": "Return2College Scholarship",
+    "sponsor": "Return2College",
+    "amount": "$1,000",
+    "deadline": "2026-09-30",
+    "deadline_note": "Recurs each term.",
+    "renewable": null,
+    "eligibility_criteria": {
+      "text": "U.S. citizen/legal resident, age 17+, full- or part-time, explicitly welcomes online/returning students.",
+      "gpa_min": null,
+      "state_residency": null,
+      "school_states": null,
+      "majors": null,
+      "age_min": 17,
+      "age_max": null,
+      "identity_requirements": null,
+      "citizenship": [
+        "u.s. citizen",
+        "legal resident"
+      ],
+      "gender_requirements": null,
+      "requires_entering_freshman": false,
+      "other_notes": ""
+    },
+    "application_effort": {
+      "essay_required": true,
+      "letters_of_rec_required": false,
+      "estimated_time": "low",
+      "notes": "Short essay on why you're pursuing your degree."
+    },
+    "url": "https://www.return2college.com/awardprogram.cfm",
+    "source": "User-provided Google Sheet research",
+    "date_found": "2026-09-10",
+    "data_confidence": "medium"
+  },
+  {
+    "id": "college-jumpstart-scholarship",
+    "name": "College JumpStart Scholarship",
+    "sponsor": "JumpStart",
+    "amount": "$1,000",
+    "deadline": "2026-10-17",
+    "deadline_note": "Fall round; recurs.",
+    "renewable": null,
+    "eligibility_criteria": {
+      "text": "Any enrollment level, explicitly open to nontraditional students, U.S. citizen/legal resident/DACA.",
+      "gpa_min": null,
+      "state_residency": null,
+      "school_states": null,
+      "majors": null,
+      "age_min": null,
+      "age_max": null,
+      "identity_requirements": null,
+      "citizenship": [
+        "u.s. citizen",
+        "legal resident",
+        "daca"
+      ],
+      "gender_requirements": null,
+      "requires_entering_freshman": false,
+      "other_notes": ""
+    },
+    "application_effort": {
+      "essay_required": true,
+      "letters_of_rec_required": false,
+      "estimated_time": "low",
+      "notes": "Short essay."
+    },
+    "url": "https://www.jumpstart-scholarship.net/",
+    "source": "User-provided Google Sheet research",
+    "date_found": "2026-09-10",
+    "data_confidence": "medium"
+  },
+  {
+    "id": "chime-scholarship",
+    "name": "Chime Scholarship",
+    "sponsor": "Chime Scholars Foundation",
+    "amount": "$5,000",
+    "deadline": null,
+    "deadline_note": "Rolling/recurring.",
+    "renewable": null,
+    "eligibility_criteria": {
+      "text": "Explicitly open to students of all ages and pathways, including students returning to school or starting late, at any stage of an undergraduate journey.",
+      "gpa_min": null,
+      "state_residency": null,
+      "school_states": null,
+      "majors": null,
+      "age_min": null,
+      "age_max": null,
+      "identity_requirements": null,
+      "citizenship": null,
+      "gender_requirements": null,
+      "requires_entering_freshman": false,
+      "other_notes": ""
+    },
+    "application_effort": {
+      "essay_required": null,
+      "letters_of_rec_required": null,
+      "estimated_time": "low",
+      "notes": "Create an account and apply."
+    },
+    "url": "https://chimescholarsfoundation.my.site.com/s/login/SelfRegister",
+    "source": "User-provided Google Sheet research",
+    "date_found": "2026-09-10",
+    "data_confidence": "medium"
+  },
+  {
+    "id": "path-scholarship",
+    "name": "Path Scholarship",
+    "sponsor": "Path (yourpath.ai)",
+    "amount": "$25,000",
+    "deadline": null,
+    "deadline_note": "Check current cycle.",
+    "renewable": null,
+    "eligibility_criteria": {
+      "text": "Broad: HS juniors/seniors, undergrad, aspiring grad, and current grad students residing or attending school in the U.S.",
+      "gpa_min": null,
+      "state_residency": null,
+      "school_states": null,
+      "majors": null,
+      "age_min": null,
+      "age_max": null,
+      "identity_requirements": null,
+      "citizenship": null,
+      "gender_requirements": null,
+      "requires_entering_freshman": false,
+      "other_notes": "Large prize, likely high competition -- low odds but easy to apply."
+    },
+    "application_effort": {
+      "essay_required": null,
+      "letters_of_rec_required": null,
+      "estimated_time": "low",
+      "notes": "Form-based application."
+    },
+    "url": "https://yourpath.ai/en/scholarship",
+    "source": "User-provided Google Sheet research",
+    "date_found": "2026-09-10",
+    "data_confidence": "medium"
+  },
+  {
+    "id": "abacus-life-scholarship",
+    "name": "Abacus Life Scholarship",
+    "sponsor": "Abacus Life",
+    "amount": "$1,000",
+    "deadline": null,
+    "deadline_note": "Rolling/recurring.",
+    "renewable": null,
+    "eligibility_criteria": {
+      "text": "Full-time OR part-time student at an accredited 4-year U.S. college/university.",
+      "gpa_min": null,
+      "state_residency": null,
+      "school_states": null,
+      "majors": null,
+      "age_min": null,
+      "age_max": null,
+      "identity_requirements": null,
+      "citizenship": null,
+      "gender_requirements": null,
+      "requires_entering_freshman": false,
+      "other_notes": "Explicitly allows part-time enrollment."
+    },
+    "application_effort": {
+      "essay_required": false,
+      "letters_of_rec_required": false,
+      "estimated_time": "low",
+      "notes": "Short video on 'what makes you unique' plus transcript."
+    },
+    "url": "https://abacuslifesettlements.com/abacus-scholarship/",
+    "source": "User-provided Google Sheet research",
+    "date_found": "2026-09-10",
+    "data_confidence": "medium"
+  },
+  {
+    "id": "act-of-kindness-scholarship",
+    "name": "Act of Kindness Scholarship",
+    "sponsor": "Parent-Volunteer.org",
+    "amount": "$1,000",
+    "deadline": null,
+    "deadline_note": "Rolling/recurring.",
+    "renewable": null,
+    "eligibility_criteria": {
+      "text": "Enrolled or planning part-time/full-time at an accredited U.S. institution (vocational through graduate), GPA 2.5+.",
+      "gpa_min": 2.5,
+      "state_residency": null,
+      "school_states": null,
+      "majors": null,
+      "age_min": null,
+      "age_max": null,
+      "identity_requirements": null,
+      "citizenship": null,
+      "gender_requirements": null,
+      "requires_entering_freshman": false,
+      "other_notes": ""
+    },
+    "application_effort": {
+      "essay_required": true,
+      "letters_of_rec_required": false,
+      "estimated_time": "low",
+      "notes": "Rewards community involvement/helping others."
+    },
+    "url": "https://www.parent-volunteer.org/act-of-kindness-scholarship",
+    "source": "User-provided Google Sheet research",
+    "date_found": "2026-09-10",
+    "data_confidence": "medium"
+  },
+  {
+    "id": "1st-financial-bank-financial-goals-scholarship",
+    "name": "1st Financial Bank Financial Goals Scholarship",
+    "sponsor": "1st Financial Bank USA",
+    "amount": "$2,000",
+    "deadline": null,
+    "deadline_note": "Rolling/recurring.",
+    "renewable": null,
+    "eligibility_criteria": {
+      "text": "U.S. residents 18+ planning to enroll or currently enrolled in a college degree program.",
+      "gpa_min": null,
+      "state_residency": null,
+      "school_states": null,
+      "majors": null,
+      "age_min": 18,
+      "age_max": null,
+      "identity_requirements": null,
+      "citizenship": null,
+      "gender_requirements": null,
+      "requires_entering_freshman": false,
+      "other_notes": ""
+    },
+    "application_effort": {
+      "essay_required": true,
+      "letters_of_rec_required": false,
+      "estimated_time": "low",
+      "notes": "500-word essay."
+    },
+    "url": "https://www.1fbusascholarship.com/",
+    "source": "User-provided Google Sheet research",
+    "date_found": "2026-09-10",
+    "data_confidence": "medium"
+  },
+  {
+    "id": "superpower-scholarship",
+    "name": "Superpower Scholarship",
+    "sponsor": "Unigo",
+    "amount": "$2,500",
+    "deadline": null,
+    "deadline_note": "Rolling/recurring.",
+    "renewable": null,
+    "eligibility_criteria": {
+      "text": "U.S. legal resident, age 14+, any enrollment status.",
+      "gpa_min": null,
+      "state_residency": null,
+      "school_states": null,
+      "majors": null,
+      "age_min": 14,
+      "age_max": null,
+      "identity_requirements": null,
+      "citizenship": [
+        "u.s. legal resident"
+      ],
+      "gender_requirements": null,
+      "requires_entering_freshman": false,
+      "other_notes": ""
+    },
+    "application_effort": {
+      "essay_required": true,
+      "letters_of_rec_required": false,
+      "estimated_time": "low",
+      "notes": "250-word essay, low effort."
+    },
+    "url": "https://www.unigo.com/scholarships/our-scholarships/superpower-scholarship",
+    "source": "User-provided Google Sheet research",
+    "date_found": "2026-09-10",
+    "data_confidence": "medium"
+  },
+  {
+    "id": "all-about-education-scholarship",
+    "name": "All About Education Scholarship",
+    "sponsor": "Unigo",
+    "amount": "$3,000",
+    "deadline": null,
+    "deadline_note": "Rolling/recurring.",
+    "renewable": null,
+    "eligibility_criteria": {
+      "text": "All U.S. residents age 14+.",
+      "gpa_min": null,
+      "state_residency": null,
+      "school_states": null,
+      "majors": null,
+      "age_min": 14,
+      "age_max": null,
+      "identity_requirements": null,
+      "citizenship": null,
+      "gender_requirements": null,
+      "requires_entering_freshman": false,
+      "other_notes": ""
+    },
+    "application_effort": {
+      "essay_required": true,
+      "letters_of_rec_required": false,
+      "estimated_time": "low",
+      "notes": "250-word essay."
+    },
+    "url": "https://www.unigo.com/scholarships/our-scholarships/all-about-education-scholarship",
+    "source": "User-provided Google Sheet research",
+    "date_found": "2026-09-10",
+    "data_confidence": "medium"
+  },
+  {
+    "id": "elite-lawyer-scholarship",
+    "name": "Elite Lawyer Scholarship",
+    "sponsor": "Elite Lawyer Management",
+    "amount": "$1,000",
+    "deadline": null,
+    "deadline_note": "Rolling/recurring.",
+    "renewable": null,
+    "eligibility_criteria": {
+      "text": "Currently enrolled in undergrad/grad program at an accredited U.S. school, 18+, GPA 3.0+.",
+      "gpa_min": 3.0,
+      "state_residency": null,
+      "school_states": null,
+      "majors": null,
+      "age_min": 18,
+      "age_max": null,
+      "identity_requirements": null,
+      "citizenship": null,
+      "gender_requirements": null,
+      "requires_entering_freshman": false,
+      "other_notes": "GPA is currently 2.96, just under the 3.0 floor -- close, revisit once your GPA crosses 3.0."
+    },
+    "application_effort": {
+      "essay_required": true,
+      "letters_of_rec_required": false,
+      "estimated_time": "low",
+      "notes": "500-word essay or 2-minute video."
+    },
+    "url": "https://www.elitelawyer.com/elite-lawyer-scholarship",
+    "source": "User-provided Google Sheet research",
+    "date_found": "2026-09-10",
+    "data_confidence": "medium"
+  },
+  {
+    "id": "poet-never-satisfied-scholarship",
+    "name": "POET Never Satisfied Scholarship",
+    "sponsor": "POET",
+    "amount": "$5,000",
+    "deadline": null,
+    "deadline_note": "Rolling/recurring.",
+    "renewable": null,
+    "eligibility_criteria": {
+      "text": "Currently enrolled at an accredited 2- or 4-year postsecondary school, grad students eligible too, U.S.-based.",
+      "gpa_min": null,
+      "state_residency": null,
+      "school_states": null,
+      "majors": null,
+      "age_min": null,
+      "age_max": null,
+      "identity_requirements": null,
+      "citizenship": null,
+      "gender_requirements": null,
+      "requires_entering_freshman": false,
+      "other_notes": ""
+    },
+    "application_effort": {
+      "essay_required": true,
+      "letters_of_rec_required": false,
+      "estimated_time": "medium",
+      "notes": "Three short essay questions."
+    },
+    "url": "https://www.poet.com/never-satisfied",
+    "source": "User-provided Google Sheet research",
+    "date_found": "2026-09-10",
+    "data_confidence": "medium"
+  },
+  {
+    "id": "create-a-greeting-card-scholarship",
+    "name": "Create-A-Greeting-Card Scholarship Contest",
+    "sponsor": "Gallery Collection",
+    "amount": "$10,000",
+    "deadline": null,
+    "deadline_note": "Rolling/recurring.",
+    "renewable": null,
+    "eligibility_criteria": {
+      "text": "Age 14+, enrolled in HS/college/university/homeschool.",
+      "gpa_min": null,
+      "state_residency": null,
+      "school_states": null,
+      "majors": null,
+      "age_min": 14,
+      "age_max": null,
+      "identity_requirements": null,
+      "citizenship": null,
+      "gender_requirements": null,
+      "requires_entering_freshman": false,
+      "other_notes": "Creative contest format -- your art background is a real edge here."
+    },
+    "application_effort": {
+      "essay_required": false,
+      "letters_of_rec_required": false,
+      "estimated_time": "medium",
+      "notes": "Submit a greeting card design."
+    },
+    "url": "https://www.gallerycollection.com/greeting-cards-scholarship.htm",
+    "source": "User-provided Google Sheet research",
+    "date_found": "2026-09-10",
+    "data_confidence": "medium"
+  },
+  {
+    "id": "love-your-career-scholarship",
+    "name": "Love Your Career Scholarship",
+    "sponsor": "Jones T-Shirts",
+    "amount": "$1,000",
+    "deadline": null,
+    "deadline_note": "Quarterly deadlines -- check current cycle.",
+    "renewable": null,
+    "eligibility_criteria": {
+      "text": "Any student enrolled in a college/university in the 50 U.S. states.",
+      "gpa_min": null,
+      "state_residency": null,
+      "school_states": null,
+      "majors": null,
+      "age_min": null,
+      "age_max": null,
+      "identity_requirements": null,
+      "citizenship": null,
+      "gender_requirements": null,
+      "requires_entering_freshman": false,
+      "other_notes": "Essay + short interview with a professional -- fits a career-change story."
+    },
+    "application_effort": {
+      "essay_required": true,
+      "letters_of_rec_required": false,
+      "estimated_time": "medium",
+      "notes": ""
+    },
+    "url": "https://www.jonestshirts.com/pages/scholarship",
+    "source": "User-provided Google Sheet research",
+    "date_found": "2026-09-10",
+    "data_confidence": "medium"
+  },
+  {
+    "id": "the-advocates-scholarship",
+    "name": "The Advocates Scholarship",
+    "sponsor": "Advocates Injury Attorneys",
+    "amount": "$1,000",
+    "deadline": null,
+    "deadline_note": "Rolling/recurring.",
+    "renewable": null,
+    "eligibility_criteria": {
+      "text": "Prospective or current students enrolled in an accredited U.S. university/college.",
+      "gpa_min": null,
+      "state_residency": null,
+      "school_states": null,
+      "majors": null,
+      "age_min": null,
+      "age_max": null,
+      "identity_requirements": null,
+      "citizenship": null,
+      "gender_requirements": null,
+      "requires_entering_freshman": false,
+      "other_notes": ""
+    },
+    "application_effort": {
+      "essay_required": true,
+      "letters_of_rec_required": false,
+      "estimated_time": "low",
+      "notes": "300-500 word essay on road safety."
+    },
+    "url": "https://www.advocateslaw.com/scholarship/",
+    "source": "User-provided Google Sheet research",
+    "date_found": "2026-09-10",
+    "data_confidence": "medium"
+  },
+  {
+    "id": "antshe-kazimour-scholarship",
+    "name": "ANTSHE Kazimour Scholarship",
+    "sponsor": "ANTSHE (Assoc. for Nontraditional Students in Higher Ed)",
+    "amount": "$500/year",
+    "deadline": null,
+    "deadline_note": "~March annually, exact date unconfirmed.",
+    "renewable": null,
+    "eligibility_criteria": {
+      "text": "Must be an ANTSHE member, 15+ completed credit hours, GPA 3.25+, U.S. citizen, undergrad.",
+      "gpa_min": 3.25,
+      "state_residency": null,
+      "school_states": null,
+      "majors": null,
+      "age_min": null,
+      "age_max": null,
+      "identity_requirements": null,
+      "citizenship": [
+        "u.s. citizen"
+      ],
+      "gender_requirements": null,
+      "requires_entering_freshman": false,
+      "other_notes": ""
+    },
+    "application_effort": {
+      "essay_required": null,
+      "letters_of_rec_required": null,
+      "estimated_time": null,
+      "notes": "Requires ANTSHE membership (cost unconfirmed)."
+    },
+    "url": "https://www.myantshe.org/Kazimour-Scholarship/",
+    "source": "User-provided Google Sheet research",
+    "date_found": "2026-09-10",
+    "data_confidence": "medium"
+  },
+  {
+    "id": "scholarship-america-dream-award",
+    "name": "Scholarship America Dream Award",
+    "sponsor": "Scholarship America",
+    "amount": "Varies (renewable)",
+    "deadline": null,
+    "deadline_note": "Typically opens Nov, closes ~Feb.",
+    "renewable": true,
+    "eligibility_criteria": {
+      "text": "Completed 1+ year of undergrad, full-time enrollment for the entire year, GPA 3.0+, financial need.",
+      "gpa_min": 3.0,
+      "state_residency": null,
+      "school_states": null,
+      "majors": null,
+      "age_min": null,
+      "age_max": null,
+      "identity_requirements": null,
+      "citizenship": null,
+      "gender_requirements": null,
+      "requires_entering_freshman": false,
+      "other_notes": "GPA is currently 2.96, just under the 3.0 floor -- worth rechecking once it crosses 3.0. Also unconfirmed whether it excludes second-bachelor's students."
+    },
+    "application_effort": {
+      "essay_required": true,
+      "letters_of_rec_required": true,
+      "estimated_time": "high",
+      "notes": ""
+    },
+    "url": "https://scholarshipamerica.org/scholarship/dreamaward/",
+    "source": "User-provided Google Sheet research",
+    "date_found": "2026-09-10",
+    "data_confidence": "medium"
+  },
+  {
+    "id": "afcea-stem-majors-scholarship",
+    "name": "AFCEA STEM Majors Scholarship",
+    "sponsor": "AFCEA",
+    "amount": "$2,500-$5,000",
+    "deadline": "2026-05-01",
+    "deadline_note": "Annual, 2026 cycle passed.",
+    "renewable": null,
+    "eligibility_criteria": {
+      "text": "U.S. citizen/permanent resident, GPA 3.0+, full-time sophomore/junior at a 4-year institution.",
+      "gpa_min": 3.0,
+      "state_residency": null,
+      "school_states": null,
+      "majors": [
+        "stem",
+        "engineering"
+      ],
+      "age_min": null,
+      "age_max": null,
+      "identity_requirements": null,
+      "citizenship": [
+        "u.s. citizen",
+        "permanent resident"
+      ],
+      "gender_requirements": null,
+      "requires_entering_freshman": false,
+      "other_notes": "GPA is currently 2.96, just under the 3.0 floor -- worth rechecking once it crosses 3.0. Class standing also unconfirmed given transfer credit history."
+    },
+    "application_effort": {
+      "essay_required": true,
+      "letters_of_rec_required": null,
+      "estimated_time": "high",
+      "notes": ""
+    },
+    "url": "https://www.afcea.org/stem-majors-scholarships",
+    "source": "User-provided Google Sheet research",
+    "date_found": "2026-09-10",
+    "data_confidence": "medium"
+  },
+  {
+    "id": "alpha-sigma-lambda-scholarship",
+    "name": "Alpha Sigma Lambda Scholarship",
+    "sponsor": "Alpha Sigma Lambda",
+    "amount": "$1,500-$3,000 (26 awards)",
+    "deadline": null,
+    "deadline_note": "~Jan 2027 (2026 cycle closed Apr 24, 2026).",
+    "renewable": null,
+    "eligibility_criteria": {
+      "text": "Adult learner at a school with an active Alpha Sigma Lambda chapter, 3.5+ GPA, 24+ semester hours completed.",
+      "gpa_min": 3.5,
+      "state_residency": null,
+      "school_states": null,
+      "majors": null,
+      "age_min": null,
+      "age_max": null,
+      "identity_requirements": null,
+      "citizenship": null,
+      "gender_requirements": null,
+      "requires_entering_freshman": false,
+      "other_notes": ""
+    },
+    "application_effort": {
+      "essay_required": null,
+      "letters_of_rec_required": null,
+      "estimated_time": null,
+      "notes": "Requires school to have an active ASL chapter."
+    },
+    "url": "https://alsiglam.org/scholarships/",
+    "source": "User-provided Google Sheet research",
+    "date_found": "2026-09-10",
+    "data_confidence": "medium"
+  },
+  {
+    "id": "philip-r-nathe-scholarship",
+    "name": "Law Office of Philip R. Nathe Scholarship",
+    "sponsor": "Law Office of Philip R. Nathe",
+    "amount": "$1,000",
+    "deadline": null,
+    "deadline_note": "Rolling/recurring.",
+    "renewable": null,
+    "eligibility_criteria": {
+      "text": "Pursuing an undergrad degree, GPA 3.5+ in most recent semester, age 17+, U.S. citizen/permanent resident.",
+      "gpa_min": 3.5,
+      "state_residency": null,
+      "school_states": null,
+      "majors": null,
+      "age_min": 17,
+      "age_max": null,
+      "identity_requirements": null,
+      "citizenship": [
+        "u.s. citizen",
+        "permanent resident"
+      ],
+      "gender_requirements": null,
+      "requires_entering_freshman": false,
+      "other_notes": ""
+    },
+    "application_effort": {
+      "essay_required": false,
+      "letters_of_rec_required": false,
+      "estimated_time": "medium",
+      "notes": "Video essay on overcoming challenges to pursue college."
+    },
+    "url": "https://www.napervilledui.com/scholarship",
+    "source": "User-provided Google Sheet research",
+    "date_found": "2026-09-10",
+    "data_confidence": "medium"
+  },
+  {
+    "id": "ngai-illinois-family-scholarship",
+    "name": "National Guard Association of Illinois (NGAI) Family Scholarship",
+    "sponsor": "NGAI",
+    "amount": "$1,500-$2,500",
+    "deadline": null,
+    "deadline_note": "2026 cycle closed; watch for reopening ~late 2026/early 2027.",
+    "renewable": null,
+    "eligibility_criteria": {
+      "text": "Dependent (spouse, biological/step/adopted child) of an Illinois Army or Air National Guard member specifically.",
+      "gpa_min": null,
+      "state_residency": null,
+      "school_states": null,
+      "majors": null,
+      "age_min": null,
+      "age_max": null,
+      "identity_requirements": [
+        "military_dependent",
+        "illinois_national_guard_service_unverified"
+      ],
+      "citizenship": null,
+      "gender_requirements": null,
+      "requires_entering_freshman": false,
+      "other_notes": "Confirmed stepfather relationship qualifies as 'step child' under this program's definition -- but only applies if he specifically served in the ILLINOIS National Guard. Which state/branch he served in is not on file."
+    },
+    "application_effort": {
+      "essay_required": null,
+      "letters_of_rec_required": null,
+      "estimated_time": null,
+      "notes": ""
+    },
+    "url": "https://ngai.com/2026-scholarships/",
+    "source": "User-provided Google Sheet research",
+    "date_found": "2026-09-10",
+    "data_confidence": "medium"
+  },
+  {
+    "id": "eangus-scholarship",
+    "name": "EANGUS Scholarship",
+    "sponsor": "Enlisted Association of the National Guard (EANGUS)",
+    "amount": "$2,000",
+    "deadline": "2026-04-01",
+    "deadline_note": "Annual, 2026 cycle passed, recurs.",
+    "renewable": null,
+    "eligibility_criteria": {
+      "text": "EANGUS members or their dependents (stepchildren explicitly included), requires the sponsoring member's EANGUS membership number.",
+      "gpa_min": null,
+      "state_residency": null,
+      "school_states": null,
+      "majors": null,
+      "age_min": null,
+      "age_max": null,
+      "identity_requirements": [
+        "military_dependent",
+        "eangus_membership_unverified"
+      ],
+      "citizenship": null,
+      "gender_requirements": null,
+      "requires_entering_freshman": false,
+      "other_notes": "Stepchild relationship confirmed eligible under this program's own definition -- but only works if stepfather is a dues-paying EANGUS member, which is unconfirmed."
+    },
+    "application_effort": {
+      "essay_required": null,
+      "letters_of_rec_required": null,
+      "estimated_time": null,
+      "notes": ""
+    },
+    "url": "https://eangus.org/scholarship-information/",
+    "source": "User-provided Google Sheet research",
+    "date_found": "2026-09-10",
+    "data_confidence": "medium"
+  },
+  {
+    "id": "nic-umc-dollars-for-scholars",
+    "name": "Northern Illinois Conference UMC - United Methodist Dollars for Scholars (UMDFS)",
+    "sponsor": "Northern Illinois Conference, United Methodist Church",
+    "amount": "Up to $4,000",
+    "deadline": null,
+    "deadline_note": "~March annually (2026 cycle passed; watch 2027).",
+    "renewable": null,
+    "eligibility_criteria": {
+      "text": "Requires a $1,000 match pledge from your home UMC church; priority given to United Methodist-affiliated schools.",
+      "gpa_min": null,
+      "state_residency": null,
+      "school_states": null,
+      "majors": null,
+      "age_min": null,
+      "age_max": null,
+      "identity_requirements": [
+        "religion_methodist_unverified"
+      ],
+      "citizenship": null,
+      "gender_requirements": null,
+      "requires_entering_freshman": false,
+      "other_notes": "Regional add-on to the national GBHEM scholarship already tracked. Requires a direct ask to your home church about committing the match pledge."
+    },
+    "application_effort": {
+      "essay_required": null,
+      "letters_of_rec_required": null,
+      "estimated_time": "medium",
+      "notes": "Requires coordination with your home church."
+    },
+    "url": "https://midwestmethodist.org/scholarships",
+    "source": "User-provided Google Sheet research",
+    "date_found": "2026-09-10",
+    "data_confidence": "medium"
+  },
+  {
+    "id": "nic-umc-general-named-endowed",
+    "name": "Northern Illinois Conference UMC - General Named Endowed (GNE) Scholarships",
+    "sponsor": "Northern Illinois Conference, United Methodist Church",
+    "amount": "Varies (100+ pooled endowment funds)",
+    "deadline": null,
+    "deadline_note": "Not published online.",
+    "renewable": null,
+    "eligibility_criteria": {
+      "text": "Single application considers leadership, GPA, and financial need across many pooled church-affiliated funds.",
+      "gpa_min": null,
+      "state_residency": null,
+      "school_states": null,
+      "majors": null,
+      "age_min": null,
+      "age_max": null,
+      "identity_requirements": [
+        "religion_methodist_unverified"
+      ],
+      "citizenship": null,
+      "gender_requirements": null,
+      "requires_entering_freshman": false,
+      "other_notes": "Worth one direct call before assuming eligibility either way."
+    },
+    "application_effort": {
+      "essay_required": null,
+      "letters_of_rec_required": null,
+      "estimated_time": "medium",
+      "notes": "Call the Midwest Methodist Foundation at 312-803-4801."
+    },
+    "url": "https://midwestmethodist.org/scholarships",
+    "source": "User-provided Google Sheet research",
+    "date_found": "2026-09-10",
+    "data_confidence": "low"
+  },
+  {
+    "id": "renaissance-scholars",
+    "name": "Renaissance Scholars",
+    "sponsor": "Renaissance Scholars",
+    "amount": "Not specified",
+    "deadline": null,
+    "deadline_note": "Not confirmed.",
+    "renewable": null,
+    "eligibility_criteria": {
+      "text": "Restricted to first-generation college students.",
+      "gpa_min": null,
+      "state_residency": null,
+      "school_states": null,
+      "majors": null,
+      "age_min": null,
+      "age_max": null,
+      "identity_requirements": [
+        "first_generation_broad"
+      ],
+      "citizenship": null,
+      "gender_requirements": null,
+      "requires_entering_freshman": false,
+      "other_notes": "Confirmed first-gen on father's side (broad definition) -- but this program's exact definition (strict vs. broad) and school/region ties are unconfirmed. A prior research pass assumed 'not first-gen' incorrectly."
+    },
+    "application_effort": {
+      "essay_required": null,
+      "letters_of_rec_required": null,
+      "estimated_time": null,
+      "notes": ""
+    },
+    "url": "",
+    "source": "User-provided Google Sheet research",
+    "date_found": "2026-09-10",
+    "data_confidence": "low"
+  },
+  {
+    "id": "opcmia-omaha-local-scholarship",
+    "name": "OPCMIA Omaha-area local scholarship fund (grandfather's cement masons union)",
+    "sponsor": "OPCMIA (Operative Plasterers' and Cement Masons' International Association) -- local Omaha-area chapter",
+    "amount": "Unknown",
+    "deadline": null,
+    "deadline_note": "Unknown.",
+    "renewable": null,
+    "eligibility_criteria": {
+      "text": "The national OPCMIA Patrick D. Finley Scholarship Fund explicitly excludes grandchildren. Whether the specific Omaha-area OPCMIA local runs its own fund with broader eligibility (that would reach a grandchild) has not been verified.",
+      "gpa_min": null,
+      "state_residency": null,
+      "school_states": null,
+      "majors": null,
+      "age_min": null,
+      "age_max": null,
+      "identity_requirements": null,
+      "citizenship": null,
+      "gender_requirements": null,
+      "requires_entering_freshman": false,
+      "other_notes": "Grandfather's OPCMIA union membership confirmed real. Worth a direct email/call to the specific Omaha-area local -- this cannot be resolved by search alone."
+    },
+    "application_effort": {
+      "essay_required": null,
+      "letters_of_rec_required": null,
+      "estimated_time": "low",
+      "notes": "One email or phone call to the local union office."
+    },
+    "url": "",
+    "source": "User-provided Google Sheet research + user confirmation",
+    "date_found": "2026-09-10",
+    "data_confidence": "low"
+  },
+  {
+    "id": "bmo-lime-connect-equity-scholarship",
+    "name": "BMO Capital Markets Lime Connect Equity Through Education Scholarship",
+    "sponsor": "BMO / Lime Connect",
+    "amount": "$10,000",
+    "deadline": null,
+    "deadline_note": "Check current cycle (targets Fall enrollment).",
+    "renewable": null,
+    "eligibility_criteria": {
+      "text": "Current undergrad/grad student in the U.S. or Canada, min 40% course load, pursuing business/computer science/engineering/math/physics/statistics; must have a visible or non-visible disability (their definition explicitly includes conditions others may not perceive as a disability, e.g. ADHD).",
+      "gpa_min": null,
+      "state_residency": null,
+      "school_states": null,
+      "majors": [
+        "engineering"
+      ],
+      "age_min": null,
+      "age_max": null,
+      "identity_requirements": [
+        "adhd_or_learning_disability",
+        "lime_connect_disability_definition_unverified"
+      ],
+      "citizenship": null,
+      "gender_requirements": null,
+      "requires_entering_freshman": false,
+      "other_notes": "Civil engineering should count under the broad 'engineering' major category, but this isn't independently confirmed. Requires joining the Lime Connect Community platform to formally confirm ADHD qualifies under their disability definition."
+    },
+    "application_effort": {
+      "essay_required": true,
+      "letters_of_rec_required": false,
+      "estimated_time": "high",
+      "notes": "Resume, transcript, and a career-goals essay."
+    },
+    "url": "https://limeconnect.com/awards/bmo_capital/",
+    "source": "User-provided Google Sheet research",
+    "date_found": "2026-09-10",
+    "data_confidence": "medium"
+  },
+  {
+    "id": "veridian-credit-union-scholarship",
+    "name": "Veridian Credit Union Scholarship",
+    "sponsor": "Veridian Credit Union",
+    "amount": "$2,500 (8 awarded)",
+    "deadline": null,
+    "deadline_note": "2026-27 cycle closed Feb 6, 2026 -- next cycle likely opens ~Nov 2026.",
+    "renewable": null,
+    "eligibility_criteria": {
+      "text": "Must be a primary Veridian Credit Union account owner in good standing, open to college students at any accredited program.",
+      "gpa_min": null,
+      "state_residency": null,
+      "school_states": null,
+      "majors": null,
+      "age_min": null,
+      "age_max": null,
+      "identity_requirements": null,
+      "citizenship": null,
+      "gender_requirements": null,
+      "requires_entering_freshman": false,
+      "other_notes": "Whether you're a Veridian member at all is unconfirmed -- if not, this doesn't apply."
+    },
+    "application_effort": {
+      "essay_required": true,
+      "letters_of_rec_required": false,
+      "estimated_time": "medium",
+      "notes": "500-word essay on collaboration/teamwork."
+    },
+    "url": "https://www.veridiancu.org/belong/community/scholarships",
+    "source": "User-provided Google Sheet research",
+    "date_found": "2026-09-10",
+    "data_confidence": "low"
+  },
+  {
+    "id": "advocate-health-community-scholarship",
+    "name": "Advocate Health Community Scholarship Program",
+    "sponsor": "Advocate Health",
+    "amount": "$5,000 (40 awards total)",
+    "deadline": null,
+    "deadline_note": "~March 31 annually (exact 2027 date unconfirmed).",
+    "renewable": null,
+    "eligibility_criteria": {
+      "text": "Health-related AND technology/IT/business/finance majors; 20 awards for community members (broad, no employment tie), 20 for Advocate teammates/dependents; part-time+ enrollment.",
+      "gpa_min": null,
+      "state_residency": null,
+      "school_states": null,
+      "majors": null,
+      "age_min": null,
+      "age_max": null,
+      "identity_requirements": null,
+      "citizenship": null,
+      "gender_requirements": null,
+      "requires_entering_freshman": false,
+      "other_notes": "UNCONFIRMED RELATIONSHIP FACT: this entry assumes a girlfriend who works at Advocate Health -- please confirm this is accurate before pursuing it. If not through her employment, the 'community member' track (20 of the 40 awards) may not require any employment tie at all, but civil engineering isn't one of the stated eligible majors either way -- verify major eligibility for the community-member track specifically."
+    },
+    "application_effort": {
+      "essay_required": null,
+      "letters_of_rec_required": null,
+      "estimated_time": "medium",
+      "notes": "Apply via Advocate Health Foundation's AwardSpring portal."
+    },
+    "url": "https://aah.awardspring.com",
+    "source": "User-provided Google Sheet research",
     "date_found": "2026-09-10",
     "data_confidence": "low"
   }

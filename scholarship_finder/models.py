@@ -21,6 +21,7 @@ class EligibilityCriteria:
     gender_requirements: Optional[list[str]] = None  # e.g. ["female"]
     requires_entering_freshman: Optional[bool] = None  # True: must be a HS senior applying pre-enrollment
     requires_pell_eligible: Optional[bool] = None
+    program_inactive: Optional[bool] = None  # True: confirmed not currently accepting applications
     other_notes: str = ""
 
     @staticmethod
@@ -38,6 +39,7 @@ class EligibilityCriteria:
             gender_requirements=d.get("gender_requirements"),
             requires_entering_freshman=d.get("requires_entering_freshman"),
             requires_pell_eligible=d.get("requires_pell_eligible"),
+            program_inactive=d.get("program_inactive"),
             other_notes=d.get("other_notes", ""),
         )
 

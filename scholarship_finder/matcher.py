@@ -88,6 +88,13 @@ def evaluate(scholarship: Scholarship, profile: dict[str, Any]) -> Evaluation:
     reasons_unclear: list[str] = []
     exclude_reason: Optional[str] = None
 
+    if ec.program_inactive:
+        return Evaluation(
+            tier=EXCLUDED,
+            reasons=["Confirmed not currently accepting applications -- no live program to apply to."],
+            fit_score=0,
+        )
+
     # low confidence in the scraped data itself is always a reason for manual review
     if scholarship.data_confidence == "low":
         reasons_unclear.append("Scraped eligibility data has low confidence -- verify on the official page.")
