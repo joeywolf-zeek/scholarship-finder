@@ -1988,5 +1988,78 @@
     "source": "User-provided Google Sheet research",
     "date_found": "2026-09-10",
     "data_confidence": "low"
+  },
+  {
+    "id": "apwa-chicago-metro-southwest-branch-scholarship",
+    "name": "APWA Chicago Metro Chapter (Southwest Branch) Scholarship",
+    "sponsor": "American Public Works Association -- Chicago Metro Chapter, Southwest Branch",
+    "amount": "Not specified in search results",
+    "deadline": "2026-11-20",
+    "deadline_note": "Spring 2027 cycle deadline. A separate Fall cycle closes May 15 annually.",
+    "renewable": null,
+    "eligibility_criteria": {
+      "text": "For students pursuing a degree in Civil Engineering, Environmental Engineering, or Public Works Management.",
+      "gpa_min": null,
+      "state_residency": null,
+      "school_states": null,
+      "majors": [
+        "civil engineering",
+        "environmental engineering",
+        "public works"
+      ],
+      "age_min": null,
+      "age_max": null,
+      "identity_requirements": null,
+      "citizenship": null,
+      "gender_requirements": null,
+      "requires_entering_freshman": false,
+      "other_notes": "Chicago Metro Chapter -- geographically tied to the Chicago area, matches Cook County."
+    },
+    "application_effort": {
+      "essay_required": null,
+      "letters_of_rec_required": null,
+      "estimated_time": null,
+      "notes": ""
+    },
+    "url": "https://chicago.apwa.org/education/stipends-and-scholarships/",
+    "source": "CareerOneStop scholarship finder + WebSearch (chicago.apwa.org)",
+    "date_found": "2026-09-10",
+    "data_confidence": "medium"
+  },
+  {
+    "id": "builders-foundation-construction-scholarship",
+    "name": "Builders Foundation Scholarship",
+    "sponsor": "Builders Foundation (ADSC-IAFD)",
+    "amount": "$4,000/year, renewable up to 2 years",
+    "deadline": null,
+    "deadline_note": "Not confirmed -- see adsc-iafd.com.",
+    "renewable": true,
+    "eligibility_criteria": {
+      "text": "Must have attended a high school in the Chicago area (Boone, Cook, DeKalb, DuPage, Grundy, Kane, Kankakee, Kendall, Lake, LaSalle, McHenry, Will counties in IL; Lake/Porter counties IN; Kenosha/Walworth counties WI). Must be a college sophomore or junior pursuing a BS in an approved construction curriculum (e.g. Construction Management, Civil Engineering).",
+      "gpa_min": null,
+      "state_residency": null,
+      "school_states": null,
+      "majors": [
+        "civil engineering",
+        "construction management"
+      ],
+      "age_min": null,
+      "age_max": null,
+      "identity_requirements": null,
+      "citizenship": null,
+      "gender_requirements": null,
+      "requires_entering_freshman": false,
+      "other_notes": "Profile's high school is Woodbine, Iowa (Harrison County) -- NOT on the eligible county list, which is a likely disqualifier. Also requires confirmed sophomore/junior class standing, which isn't on file. Flagging both rather than excluding outright since the high-school fact hasn't been independently re-confirmed in this session."
+    },
+    "application_effort": {
+      "essay_required": null,
+      "letters_of_rec_required": null,
+      "estimated_time": null,
+      "notes": "PDF application via adsc-iafd.com."
+    },
+    "url": "http://adsc-iafd.com",
+    "source": "CareerOneStop scholarship finder + WebSearch (cee.illinois.edu, cibagc.org)",
+    "date_found": "2026-09-10",
+    "data_confidence": "low"
   }
 ]
